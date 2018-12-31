@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JugtoursApplication",
+            "request": "launch",
+            "mainClass": "com.okta.developer.jugtours.JugtoursApplication",
+            "projectName": "jugtours"
+        }
+    ]
+}
